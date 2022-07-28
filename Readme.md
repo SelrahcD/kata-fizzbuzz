@@ -4,11 +4,14 @@
 
 FizzBuzz is a simple number game in which you count, but replace certain numbers with the words "Fizz" and/or "Buzz", adhering to certain rules.
 
-1. Create a program that prints out the numbers 1 through 100, separated by newlines.
-2. Instead of numbers divisible by 3, the method should output "Fizz".
-3. Instead of numbers divisible by 5, the method should output "Buzz".
-4. Instead of numbers divisible by 3 and 5, the method should output "FizzBuzz".
-5. When you're here ask the facilitator for more ideas 🙂
+Create a program that :
+- Prints out the numbers 1 through 100, separated by newlines.
+- Instead of numbers divisible by 3, the method should output "Fizz".
+- Instead of numbers divisible by 5, the method should output "Buzz".
+- Instead of numbers divisible by 3 and 5, the method should output "FizzBuzz".
+
+
+When you're here ask the facilitator for more ideas 🙂
 
 ### Sample Output
     1
